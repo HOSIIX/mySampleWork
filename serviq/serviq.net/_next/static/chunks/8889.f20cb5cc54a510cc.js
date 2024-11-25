@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[8889],{8889:function(a,s,l){l.r(s);var n=l(5893);s.default=()=>(0,n.jsxs)("div",{className:"loadingweb",children:[(0,n.jsx)("img",{src:"/imges/loadin-logo.png",alt:"loading",className:"loadinglogo"}),(0,n.jsx)("img",{src:"/imges/loadin-name.png",alt:"loadin-name",className:"loadin-name"})]})}}]);

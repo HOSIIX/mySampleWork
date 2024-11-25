@@ -1,0 +1,8 @@
+@font-face {
+  font-family: IRANsansWeb;
+  src: url("./serviq.net/font/IRANSansWeb.woff2") format("woff2"),
+    url("./serviq.net/font/IRANSansWeb.ttf") format("truetype");
+}
+*,span,h1 {
+  font-family: IRANsansWeb !important;
+}
